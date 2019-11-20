@@ -1,16 +1,15 @@
-# youtube
+# YouTube UI Clone
 
-A new Flutter application.
+This App was made in flutter from scratch.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+No plugins to be installed for flutter users.
+Non Flutter users need to install flutter to view the contents.
 
-A few resources to get you started if this is your first Flutter project:
+### Notice
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This Application is for Educational purpose only. Misuse of the content of the application is an offensable punishment.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Have a Nice Day :)
